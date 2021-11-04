@@ -1,6 +1,6 @@
 # BioInformatics-I
 
-<p align="center">
+<p align="left">
   <img src="https://s3.amazonaws.com/media.al-fanarmedia.org/wp-content/uploads/2020/04/06212406/coursera.jpg" width="350" title="hover text">
 </p>
 
